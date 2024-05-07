@@ -46,7 +46,7 @@ SCARPACT is a high-performance parallel SCARA manipulator project. This guide co
 1. MATLAB & Some Add-ons
    
    + What MATLAB version to use?
-     - MATLAB version <strong>R2023a</strong> is highly recommended to use. 
+     - MATLAB version <strong>R2023a</strong> is highly recommended. 
    + How to install MATLAB?
      - The most common installation options for MATLAB are presented on [MathWorks Docs](https://www.mathworks.com/help/releases/R2023a/install/install-products.html).
    + What are required Add-ons?
@@ -57,7 +57,7 @@ SCARPACT is a high-performance parallel SCARA manipulator project. This guide co
 
 ### Usage
 To clone and run this application, you'll need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/download/) 
-installed on your computer. From your command line:
+installed on your computer. Then, from your command line:
 
 ```console
 # Clone this repository
@@ -100,7 +100,6 @@ Investigating the implementation of task space control to enable direct control 
 
 ## Resources
 
-This project would not have been possible without the following resources:
-+ <a href="Educational Five-bar parallel robot_.pdf">Educational Five-Bar Parallel Robot</a>
-+ <a href="Study and Development of Parallel Robots Based on 5-Bar Linkage">Study and Development of Parallel Robots Based on 5-Bar Linkage</a>
-+ Final Calculation for SCARPACT kinematics could be found in the <a href="SCARPACT Final Kinematics.pdf">repository</a> 
++ [Educational Five-Bar Parallel Robot](https://github.com/MohamedOmda92/SCARPACT-Fuzzy-Control/blob/main/Resources/Design-Guidelines/Educational%20Five-bar%20parallel%20robot.pdf)
++ [Study and Development of Parallel Robots Based on 5-Bar Linkage](https://github.com/MohamedOmda92/SCARPACT-Fuzzy-Control/blob/main/Resources/Design-Guidelines/Study%20and%20Development%20of%20Parallel%20Robots%20Based%20on%205-Bar%20Linkage.pdf)
++ Final Calculation for SCARPACT kinematics could be found [here](https://github.com/MohamedOmda92/SCARPACT-Fuzzy-Control/blob/main/Resources/Design-Guidelines/SCARPACT%20Final%20Kinematics.pdf)
