@@ -28,7 +28,7 @@
 	<a href="#key-features">Key Features</a> •
 	<a href="#key-challenges">Key Challenges</a> •
 	<a href="#future-work">Future Work</a> •	
-	<a href="#resources">Resource</a>
+	<a href="#resources">Resources</a>
 </p>
 
 ## Basic Overview
@@ -64,7 +64,7 @@ installed on your computer. Then, from your command line:
 $ git clone https://github.com/MohamedOmda92/SCARPACT-Fuzzy-Control
 ```
 
-Now run `Control_System.slx` file, enter the desired XY coordinates location (in mm) in the "Constant" Blocks, and
+Now run `..\Software\MATLAB\Control_System.slx` file, enter the desired XY coordinates location (in mm) in the "Constant" Blocks, and
 run the simulation.
 
 > You can tune PID-like fuzzy controller parameters (gains) by modifying variables saved in Model Workspace. For further details, refer to [Simulink Docs](https://www.mathworks.com/help/simulink/ug/change-model-workspace-data.html)
